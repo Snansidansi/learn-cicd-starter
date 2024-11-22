@@ -98,6 +98,6 @@ func main() {
 }
 
 func unused() {
-    // This is just an unused function.
-    // :)
+	// This is just an unused function.
+	// :)
 }
